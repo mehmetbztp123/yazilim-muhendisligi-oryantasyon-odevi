@@ -1,6 +1,9 @@
 Ad : Mehmet
+
 Soyad : Boztepe
+
 Öğrenci No : 240541084
+
 
 Açıklama : Yazılım Mühendisliği Oryantasyon Ödevi (5 farklı programlama sorusu youtube üzerinden anlatım)
 
